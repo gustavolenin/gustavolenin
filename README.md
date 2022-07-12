@@ -12,7 +12,7 @@ Um pouco sobre minha vida profissional:
 
 • Analista de dados Jr.
 
-## Ferramentas e Linguagens:
+#### Ferramentas e Linguagens:
 
 Coletagem de dados: SQL, SQLite
 
