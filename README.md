@@ -10,7 +10,7 @@ Um pouco sobre minha vida profissional:
 
 • Mestrando em energia - Universidade Federal de Pernambuco
 
-• Analista de dados Jr.
+• Analista de dados
 
 ## Ferramentas e Linguagens:
 
