@@ -67,4 +67,4 @@ Nesse repositório contém os códigos relacionados às publicações do meu per
   
 [Estudo de Power BI](https://github.com/gustavolenin/Power-BI)
   
-Nesse repositório contém alguns deashboards desenvolvidos nos meus estudos de power bi.
+Nesse repositório contém alguns dashboards desenvolvidos nos meus estudos de power bi.
