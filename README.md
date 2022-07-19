@@ -43,11 +43,11 @@ Estou aprendendo: Plotly, Git, Github
 ## Projetos de Análise de Dados
 
 
-[Análise de Altura Masculina e Feminina por país - 2022](https://github.com/gustavolenin/Analise_de_dados/blob/main/Height%20of%20Male%20and%20Female%20by%20Country%202022.ipynb)
+[Análise de Altura Masculina e Feminina por país - 2022](https://github.com/gustavolenin/Analise-de-Altura-Masculina-e-Feminina-por-pais-2022)
 
 Este projeto consiste em uma análise exploratória dos dados a partir de um Dataset que contém dados a respeito da altura média masculina e feminina por cada país. Maiores detalhes a respeito do Dataset podem ser encontrados neste [link](https://www.kaggle.com/datasets/majyhain/height-of-male-and-female-by-country-2022).
 
-[Sistema de compartilhamento de bicicletas na Cidade de Seoul](https://github.com/gustavolenin/Analise_de_dados/blob/main/seoul-bike-sharing-demand.ipynb)
+[Sistema de compartilhamento de bicicletas na Cidade de Seoul](https://github.com/gustavolenin/Compartilhamento-de-Bicicletas-em-Seul)
 
 Atualmente, as bicicletas de aluguel são bastante utilizadas em muitas cidades como uma alternativa para aumentar o conforto da mobilidade. Sabe-se que é importante disponibilizar a bicicleta de forma acessível ao público assim como no horário certo pois diminui o tempo de espera. Dessa forma, fornecer à cidade um suprimento adequado de bicicletas para aluguel se torna uma grande preocupação.
 
