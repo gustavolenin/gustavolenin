@@ -64,3 +64,7 @@ Nesse repositório contém alguns dos códigos desenvolvidos nos meus estudos em
 [Publicações no Medium](https://github.com/gustavolenin/Medium)
 
 Nesse repositório contém os códigos relacionados às publicações do meu perfil no medium: https://medium.com/@gustavolenin
+  
+[Estudo de Power BI](https://github.com/gustavolenin/Power-BI)
+  
+Nesse repositório contém alguns deashboards desenvolvidos nos meus estudos de power bi.
