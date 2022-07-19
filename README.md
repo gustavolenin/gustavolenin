@@ -56,3 +56,11 @@ Visando analisar este problema e obter insights através dos dados obteve-se est
 Dessa forma, neste projeto será realizada uma análise exploratória dos dados de modo a obter estes insights.
 
 Maiores informações sobre o Dataset podem ser encontradas neste [link](https://archive.ics.uci.edu/ml/datasets/Seoul+Bike+Sharing+Demand).
+  
+[Estudo de SQL](https://github.com/gustavolenin/SQL_OLIST)
+
+Nesse repositório contém alguns dos códigos desenvolvidos nos meus estudos em SQL.
+  
+[Publicações no Medium](https://github.com/gustavolenin/Medium)
+
+Nesse repositório contém os códigos relacionados às publicações do meu perfil no medium: https://medium.com/@gustavolenin
