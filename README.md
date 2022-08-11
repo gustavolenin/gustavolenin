@@ -60,12 +60,16 @@ Maiores informações sobre o Dataset podem ser encontradas neste [link](https:/
   
 [Estudo de SQL](https://github.com/gustavolenin/SQL_OLIST)
 
-Nesse repositório contém alguns dos códigos desenvolvidos nos meus estudos em SQL.
+Esse repositório contém alguns dos códigos desenvolvidos nos meus estudos em SQL.
   
 [Publicações no Medium](https://github.com/gustavolenin/Medium)
 
-Nesse repositório contém os códigos relacionados às publicações do meu perfil no medium: https://medium.com/@gustavolenin
+Esse repositório contém os códigos relacionados às publicações do meu perfil no medium: https://medium.com/@gustavolenin
   
 [Estudo de Power BI](https://github.com/gustavolenin/Power-BI)
   
-Nesse repositório contém alguns dashboards desenvolvidos nos meus estudos de power bi.
+Esse repositório contém alguns dashboards desenvolvidos nos meus estudos de Power BI.
+
+[Cursos no Kaggle](https://github.com/gustavolenin/Kaggle-cursos)
+
+Esse repositório contém os códigos referentes aos cursos que realizei no Kaggle.
