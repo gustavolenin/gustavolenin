@@ -12,6 +12,8 @@ Um pouco sobre minha vida profissional:
 
 • Analista de dados
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=gustavo.lenin)
+
 ## Ferramentas e Linguagens:
 
 Coletagem de dados: SQL, SQLite, MySQL
@@ -73,5 +75,3 @@ Esse repositório contém alguns dashboards desenvolvidos nos meus estudos de Po
 [Cursos no Kaggle](https://github.com/gustavolenin/Kaggle-cursos)
 
 Esse repositório contém os códigos referentes aos cursos que realizei no Kaggle.
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=gustavo.lenin)
