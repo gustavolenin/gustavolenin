@@ -46,9 +46,11 @@ Estou aprendendo: Plotly, Git, Github
 ## Projetos de Análise de Dados
 
 
-[Análise de Altura Masculina e Feminina por país - 2022](https://github.com/gustavolenin/Analise-de-Altura-Masculina-e-Feminina-por-pais-2022)
+[Análise de altura masculina e feminina por país - 2022](https://github.com/gustavolenin/Analise-de-Altura-Masculina-e-Feminina-por-pais-2022)
 
 Este projeto consiste em uma análise exploratória dos dados a partir de um Dataset que contém dados a respeito da altura média masculina e feminina por cada país. Maiores detalhes a respeito do Dataset podem ser encontrados neste [link](https://www.kaggle.com/datasets/majyhain/height-of-male-and-female-by-country-2022).
+
+--------------------------------------------------------------------------------------------------------------------------------------
 
 [Sistema de compartilhamento de bicicletas na Cidade de Seoul](https://github.com/gustavolenin/Compartilhamento-de-Bicicletas-em-Seul)
 
@@ -59,18 +61,36 @@ Visando analisar este problema e obter insights através dos dados obteve-se est
 Dessa forma, neste projeto será realizada uma análise exploratória dos dados de modo a obter estes insights.
 
 Maiores informações sobre o Dataset podem ser encontradas neste [link](https://archive.ics.uci.edu/ml/datasets/Seoul+Bike+Sharing+Demand).
-  
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+[Indicadores de doença cardíaca](https://github.com/gustavolenin/Doencas_cardiacas)
+
+De acordo com o CDC (Centers for Disease Control and Prevention), a doença cardíaca é uma das principais causas de morte para pessoas da maioria das raças nos EUA. Quase metade de todos os americanos (47%) têm pelo menos 1 dos 3 principais fatores de risco para doenças cardíacas: pressão alta, colesterol alto e tabagismo. Outros indicadores-chave incluem diabetes, obesidade (IMC alto), não praticar atividade física suficiente ou beber muito álcool. Detectar e prevenir os fatores que têm maior impacto nas doenças cardíacas é muito importante na área da saúde. Dessa forma, detectar “padrões” a partir dos dados pode nos auxiliar no melhor acompanhamento da condição do paciente.
+
+Dessa forma, neste projeto será realizada uma análise exploratória dos dados de modo a obter estes insights.
+
+Maiores informações sobre o Dataset podem ser encontradas neste [link](https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease).
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
 [Estudo de SQL](https://github.com/gustavolenin/SQL_OLIST)
 
 Esse repositório contém alguns dos códigos desenvolvidos nos meus estudos em SQL.
-  
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
 [Publicações no Medium](https://github.com/gustavolenin/Medium)
 
 Esse repositório contém os códigos relacionados às publicações do meu perfil no medium: https://medium.com/@gustavolenin
-  
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
 [Estudo de Power BI](https://github.com/gustavolenin/Power-BI)
   
 Esse repositório contém alguns dashboards desenvolvidos nos meus estudos de Power BI.
+
+--------------------------------------------------------------------------------------------------------------------------------------
 
 [Cursos no Kaggle](https://github.com/gustavolenin/Kaggle-cursos)
 
