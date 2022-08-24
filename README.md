@@ -74,6 +74,16 @@ Maiores informações sobre o Dataset podem ser encontradas neste [link](https:/
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
+[Top 2000 músicas no spotify de 2000 a 2019](https://github.com/gustavolenin/Spotify)
+
+Este conjunto de dados contém estatísticas de áudio das 2.000 principais faixas no Spotify de 2000 a 2019. Os dados contêm cerca de 18 colunas, cada uma descrevendo a pista e suas qualidades.
+
+Dessa forma, neste projeto será realizada uma análise exploratória dos dados de modo a obter estes insights.
+
+Maiores informações sobre o Dataset podem ser encontradas neste [link](https://www.kaggle.com/datasets/paradisejoy/top-hits-spotify-from-20002019).
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
 [Estudo de SQL](https://github.com/gustavolenin/SQL_OLIST)
 
 Esse repositório contém alguns dos códigos desenvolvidos nos meus estudos em SQL.
