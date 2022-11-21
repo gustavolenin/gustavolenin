@@ -10,7 +10,7 @@ Um pouco sobre minha vida profissional:
 
 • Mestrando em energia - Universidade Federal de Pernambuco
 
-• Analista de dados
+• Cientista de dados
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=gustavo.lenin)
 
