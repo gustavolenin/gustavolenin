@@ -18,7 +18,7 @@ Um pouco sobre minha vida profissional:
 
 Coletagem de dados: SQL, SQLite, MySQL
 
-Processamento e análise de dados: Python (Numpy, Pandas), Excel, SAS 
+Processamento e análise de dados: Python (Numpy, Pandas), Excel, SAS, Spark 
 
 Visualização de dados: Matplotlib, Seaborn, Power BI
 
