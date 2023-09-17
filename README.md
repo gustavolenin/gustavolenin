@@ -8,7 +8,7 @@ Um pouco sobre minha vida profissional:
 
 • Pós graduado em gestão de projetos e metodologias ágeis - Faveni
 
-• Mestrando em energia - Universidade Federal de Pernambuco
+• Mestre em energia - Universidade Federal de Pernambuco
 
 • Cientista de dados
 
