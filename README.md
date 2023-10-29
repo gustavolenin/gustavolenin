@@ -12,8 +12,6 @@ Atuo como cientista de dados desenvolvendo modelos estatísticos, estudos e pol�
 
 • Mestre em energia - Universidade Federal de Pernambuco
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=gustavo.lenin)
-
 ## Ferramentas e Linguagens:
 
 Coletagem de dados: SQL, SQLite, MySQL
@@ -33,6 +31,7 @@ Estou aprendendo: Computação em nuvem (AWS)
 <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img align="center" link rel="stylesheet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" /><img align="center" link rel="stylesheet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /><img align="center" link rel="stylesheet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" /><img align="center" link rel="stylesheet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /><img align="center" link rel="stylesheet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" /><img align="center" link rel="stylesheet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 </div>
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=gustavo.lenin)
           
  
  ##
