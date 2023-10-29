@@ -1,6 +1,8 @@
 ### Olá, eu sou Gustavo Lenin 👋
 
-Um pouco sobre minha vida profissional:
+Atuo como cientista de dados desenvolvendo modelos estatísticos, estudos e políticas para resolução de problemas de negócio direcionados à concessão de crédito.
+
+## Formação Acadêmica
 
 • Graduado em engenharia mecânica - Universidade Federal do Vale do São Francisco
 
@@ -9,8 +11,6 @@ Um pouco sobre minha vida profissional:
 • Pós graduado em gestão de projetos e metodologias ágeis - Faveni
 
 • Mestre em energia - Universidade Federal de Pernambuco
-
-• Cientista de dados
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=gustavo.lenin)
 
