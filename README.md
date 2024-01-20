@@ -1,6 +1,6 @@
 ### Olá, eu sou Gustavo Lenin 👋
 
-Atuo como cientista de dados desenvolvendo modelos estatísticos, estudos e políticas para resolução de problemas de negócio direcionados à concessão de crédito.
+Atuo como cientista de dados desenvolvendo modelos estatísticos, estudos e políticas para resolução de problemas de negócio direcionados à área de crédito.
 
 ## Formação Acadêmica
 
