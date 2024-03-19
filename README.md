@@ -14,7 +14,7 @@ Atuo como cientista de dados desenvolvendo modelos estatísticos, estudos e pol�
 
 ## Ferramentas e Linguagens:
 
-Coletagem de dados: SQL, SQLite, MySQL
+Coleta de dados: SQL, SQLite, MySQL
 
 Processamento e análise de dados: Python (Numpy, Pandas), Excel, SAS, Spark 
 
