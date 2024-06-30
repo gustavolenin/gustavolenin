@@ -20,6 +20,8 @@ Processamento e análise de dados: Python (Numpy, Pandas), Excel, SAS, Spark
 
 Visualização de dados: Matplotlib, Seaborn, Power BI
 
+Computação em nuvem: AWS
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=gustavo.lenin)
 
 <div align="center">
