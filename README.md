@@ -14,13 +14,7 @@ Atuo como cientista de dados desenvolvendo modelos estatísticos, estudos e pol�
 
 ## Ferramentas e Linguagens:
 
-Coleta de dados: SQL, SQLite, MySQL
-
-Processamento e análise de dados: Python (Numpy, Pandas), Excel, SAS, Spark 
-
-Visualização de dados: Matplotlib, Seaborn, Power BI
-
-Computação em nuvem: AWS
+Domínio em: SQL, SQLite, MySQL, Python (Numpy, Pandas, Matplotlib, Seaborn), Excel, SAS, Spark, NLP, Power BI, AWS
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=gustavo.lenin)
 
